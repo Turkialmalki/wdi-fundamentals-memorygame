@@ -10,7 +10,7 @@ git clone https://github.com/lamesensei/wdi-fundamentals-memorygame.git
 ```
 
 ## Screenshots
-![memory game screenshot](MCG.jpg)
+![memory game screenshot](Memory Card Game.jpg)
 
 ## Built With
  - HTML
