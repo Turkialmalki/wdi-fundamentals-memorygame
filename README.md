@@ -6,7 +6,7 @@
 Clone or download the repository and open index.html to play.
 
 ```
-git clone https://github.com/lamesensei/wdi-fundamentals-memorygame.git
+git clone https://github.com/Turkialmalki/wdi-fundamentals-memorygame
 ```
 
 ## Screenshots
